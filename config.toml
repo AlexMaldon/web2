@@ -3,7 +3,7 @@
 # baseURL = "https://github.com/AlexMaldon/website"
 baseURL = "https://github.io/AlexMaldon/web1"
 title = "PHR | Data Scientist "
-theme = "Theme Somrat"
+theme = "somrat"
 # disable language
 # disableLanguages = [] # disable language from here
 publishdir = "publicar"
