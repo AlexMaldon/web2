@@ -1,6 +1,7 @@
 ######################## default configuration ####################
 # baseURL = "htpps://examplesite.com"  
- baseURL = "https://github.com/AlexMaldon/website"
+# baseURL = "https://github.com/AlexMaldon/website"
+baseURL = "https://github.io/AlexMaldon/web1"
 title = "PHR | Data Scientist "
 theme = "Theme Somrat"
 # disable language
