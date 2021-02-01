@@ -6,7 +6,7 @@ theme = "Theme Somrat"
 # disable language
 # disableLanguages = [] # disable language from here
 publishdir = "publicar"
-# canonifyURL = "true"
+canonifyURL = "true"
 
 ############################# Plugins ##############################
 
